@@ -1,6 +1,6 @@
 ### 访问量
 
-![](http://profile-counter.glitch.me/chxm1023_Task/count.svg)
+![](https://github.com/iKath/K/count.svg)
 
 ### 使用声明：
 
