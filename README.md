@@ -1,6 +1,6 @@
 ### 访问量
 
-![](https://github.com/iKath/K/count.svg)
+![](https://github.com/iKath/K)
 
 ### 使用声明：
 
